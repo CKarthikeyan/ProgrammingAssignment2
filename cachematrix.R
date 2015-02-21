@@ -1,5 +1,5 @@
 ## The code below has two functions 
-## makeCacheMatrix - which creates an object having options to store and matrix and its inverse.
+## makeCacheMatrix - which creates an object having options to store a matrix and its inverse.
 ## cacheSolve - uses the makeCacheMatrix object to obtain inverse from the cache
 
 ## function takes input as an invertible matrix and stores it, it also sets the 
